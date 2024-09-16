@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# Halo semua! 
+
+Perkenalkan nama saya **Salma Amin Cahyono**.<br>
+
 <!--
 **aminCh233927/aminCh233927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
